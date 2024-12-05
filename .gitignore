@@ -142,4 +142,4 @@ belief_snapshots/
 bash_scripts_2/
 
 .idea/
-*.txt
+bash_scripts/*.txt

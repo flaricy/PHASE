@@ -1,0 +1,10 @@
+numpy==1.19.5
+scipy==1.1.0
+pygame
+opencv-python==3.4.2.16
+anytree
+matplotlib
+shapely
+tqdm
+torch==1.10.2
+#torchvision

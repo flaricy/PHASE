@@ -7,18 +7,11 @@ The code was written by the lead authors of the paper, Aviv Netanyahu and Tianmi
 
 ## Requirements
 
-- Python 3.5
-- Numpy >= 1.15.2
-- Scipy == 1.1.0
-- [pybox2d](https://github.com/pybox2d/pybox2d)
-- pygame 
-- OpenCV >= 3.4.2
-- anytree
-- matplotlib
-- shapely
-- tqdm
-- pdb
-
+```shell 
+conda create -n PHASE -c conda-forge python=3.6 pybox2d  
+conda activate PHASE
+pip install -r requirements.txt
+```
 
 ## Instruction
 
